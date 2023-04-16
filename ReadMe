@@ -1,0 +1,4 @@
+Color detection is required for object recognition and is also utilized as a tool in different picture editing and sketching apps.
+
+The process of determining the name of any color is known as color detection. Isn't it simple? For people, this is a simple task, but for computers, it is more difficult. Light is translated into color by the eyes and brains of humans. The signal is sent to the brain via light receptors found in our eyes. The color is then recognized by our brain. 
+We intend to create an application that will allow you to automatically obtain the name of a color by clicking on it. So we'll have a data file with the color name and values for this. Then we'll compute the distance between each color and select the one with the least distance.
